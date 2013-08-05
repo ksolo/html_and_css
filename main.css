@@ -1,0 +1,13 @@
+p {
+  font-size: 20px;
+  color: green;
+}
+
+#intro {
+  color: blue;
+}
+
+.italic {
+  font-style: italic;
+}
+
